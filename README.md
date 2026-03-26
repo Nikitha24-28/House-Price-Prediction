@@ -46,4 +46,4 @@ This project aims to solve this using data-driven machine learning techniques.
   - NumPy
   - Pandas
   - Matplotlib / Seaborn
-  - Scikit-learn  # House-Price-Prediction
+  - Scikit-learn 
